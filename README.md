@@ -1,2 +1,2 @@
 # zgrlin.github.io
-ZGR's Shell
+ta2ozg shell

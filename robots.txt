@@ -1,0 +1,7 @@
+# Allow all robots to crawl all content
+User-agent: *
+Disallow: /404.html
+Disallow: /cgi-bin/
+
+# Sitemap
+Sitemap: https://zgur.org/sitemap.xml

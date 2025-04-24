@@ -2,10 +2,10 @@ theme: jekyll-theme-minimal
 title: ta2ozg homepage
 description: ta2ozg homepage
 
-# CSS dosyasını burada dahil edin
+# CSS
 sass:
   load_paths:
     - _sass
 assets:
   css:
-    - "assets/css/style.css"
+    - "css/style.css"

@@ -1,0 +1,88 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fff;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #e63946; /* Kırmızı ton */
+  color: #fff;
+  padding: 20px;
+}
+
+#navbar ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+#navbar ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+#navbar ul li a:hover {
+  color: #f1faee; /* Açık beyaz/soluk gri */
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.section-title h3 {
+  font-size: 2.5em;
+  color: #e63946; /* Kırmızı ton */
+  margin-bottom: 10px;
+}
+
+.section-title p {
+  font-size: 1.2em;
+  color: #333;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+footer {
+  background-color: #e63946; /* Kırmızı ton */
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer .copyright {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+address a {
+  color: #e63946; /* Kırmızı ton */
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+address a:hover {
+  color: #f1faee; /* Açık beyaz/soluk gri */
+}

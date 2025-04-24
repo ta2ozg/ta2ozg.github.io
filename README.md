@@ -1,2 +1,2 @@
 # zgrlin.github.io
-ta2ozg shell
+ta2ozg web
